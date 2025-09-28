@@ -1,0 +1,15 @@
+#Task 1
+dict={'Alice':85,'Sam':76, 'Eliza':92}
+user=(input("Enter student's name:"))
+if user in dict:
+    print(user, "'s", "marks are:", dict[user])
+else:
+    print("Student not found.")
+
+#Task 2
+list = [1,2,3,4,5,6,7,8,9,10]
+print('Original list:',list)
+list1 = list[0:5]
+print('Extracted first five elements:',list1)
+list1.reverse()
+print('Reversed extracted elements:',list1)

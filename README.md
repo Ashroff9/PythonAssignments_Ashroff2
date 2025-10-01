@@ -17,3 +17,5 @@ Problem Statement: Write a Python program that:
 4.   Prints both the extracted list and the reversed list
 
 
+Assignment 6:
+tkinter calculator is created
